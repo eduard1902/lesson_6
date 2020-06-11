@@ -1,1 +1,1 @@
-# lesson_6
+# lesson-day-3
